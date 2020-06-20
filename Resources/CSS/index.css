@@ -40,22 +40,25 @@ h2{
 #banner{
     display: block;
     padding-top: 20px;
-    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+    border-top: 1px solid black;
+    align-content:center;
 }
 #banner img{
-   max-width: 100%;
-   height: auto;
-   margin-right: auto;
-   margin-left: auto;
-}
-#banner h1{
-    text-transform: uppercase;
-    font-size: 3rem;
-} 
-.misson{
-    max-width: 500px;
-    padding: 20px;
-    align-content: center;
+    max-width: 100%;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+ }
+ #banner h1{
+     text-transform: uppercase;
+     font-size: 3rem;
+ } 
+.mission{
+    width: 75%;
+    height: auto;
+    margin: auto;
 }
 footer{
     margin-top: 100px;
