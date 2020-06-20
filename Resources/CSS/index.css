@@ -36,6 +36,7 @@ h2{
     display: inline-block;
 } 
 
+
 #banner{
     display: block;
     padding-top: 20px;
@@ -54,7 +55,7 @@ h2{
 .misson{
     max-width: 500px;
     padding: 20px;
-    
+    align-content: center;
 }
 footer{
     margin-top: 100px;
