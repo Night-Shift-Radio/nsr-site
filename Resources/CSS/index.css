@@ -49,10 +49,11 @@ h2{
     margin-bottom: 25px;
 }
 #banner img{
-    max-width: 75%;
+    width: 75%;
+    max-width: 500px;
     height: auto;
     margin: auto;
-    top: 20px;
+    
  }
  #banner h1{
      text-transform: uppercase;
@@ -61,8 +62,10 @@ h2{
  } 
 .mission{
     width: 60%;
+    max-width: 450px;
     height: auto;
     margin: auto;
+    font-size: 0.9rem;
 }
 footer{
     margin-top: 100px;
